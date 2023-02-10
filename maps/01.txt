@@ -1,0 +1,21 @@
+15 20
+MMMhhffffffffff
+MMMMMhhffffffff
+hMMMhhhffFFFfff
+fhMhffFFFFFFFff
+fhhhffFFFFFFFFF
+ffffFFFFFFFFfff
+rrrrfFFFFFFffff
+fffrrffFFFfffff
+RRffrrrfFFFFfff
+fRffffrFFFFFFff
+fRfffWWWWWFFFFF
+fRffWWWWWWWWFFF
+fRRfffWWWWWWWrr
+ffRRRRffffWWfff
+fffffRRRfffffff
+fffffffRfffffff
+hffffffRRRRRRRR
+Mhhffffffffffff
+Mhhffffffffffff
+MMhhhffffffffff
