@@ -1,3 +1,4 @@
 Cargo.lock
 Metrics.csv
 target
+.DS_Store
